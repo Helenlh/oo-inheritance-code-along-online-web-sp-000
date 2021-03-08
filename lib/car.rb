@@ -5,6 +5,6 @@ class Car < Vehicle
     "VRRROOOOOOOOOOOOOOOOOOOOOOOM!!!!!"
   end
   
-#the compiler looks first to the class we are in for the #go method.  If not found, it the looks in the parent class.
+#the compiler looks first to the class we are in for the #go method.  If not found, it the looks in the parent class. 
 end 
   
